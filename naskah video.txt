@@ -1,0 +1,47 @@
+Assalamu'alaikum wr.wb, Alhamdulillahirabbill alamin, puji sukur kehadiran allah SWT, salawat dan salam kepada nabi muhammad SAW.
+
+Pada video kali ini saya akan menjelaskan tentang project desain website yang berjudul jasa,
+jasa yang bermanfaat untuk orang banyak dari perusahaan dan individu.
+Contohnya seperti jasa pembuatan website, jasa sewa rumah, atau jasa desain laundry dan lain-lain.
+
+ini adalah contoh website yang akan saya buat dengan desain UI sederhana.
+
+saya akan memulai dengan membuat wireframe untuk desain website saya,
+Pertama saya mulai membuat desain wireframe dengan website figma.
+Karena mendesainnya membutuhkan waktu lama jadi saya percepat lansung pada hasil desain wireframe 
+yang saya buat.
+
+ini adalah tampilan beranda dari website yang nanti akan saya buat nanti, dan halaman kedua tentang penjelasan jasa 
+yang mereka tawarkan dengan galeri pelengkap.
+
+saya lanjut membuat website saya menggunakan html dan css.
+
+pertama-tama saya membuat dokumen baru, lalu saya membuka aplikasi visual studio code
+setelah itu saya membuat file dengan format html dan menyimpannya dengan nama beranda.html
+
+karena sudah di simpan jadi file html saya hanya perlu mengetikkan doc lalu enter
+maka akan otomatis membuat dokumen dengan format html 5 yang responsive
+
+lalu saya lanjut ke dokumen tadi setelah itu saya membuat dokumen baru yang berjudul CSS
+setelah itu saya membuat file baru di visual studio code dengan nama beranda.css agar mudah saat mengingat.
+
+kembali ke html saya akan membuat navigasi, header dan isi dari web jasa yang saya buat.
+karna saya sebelumnya sudah membuat codingannya saya hanya akan menjelaskan apa yang saya buat.
+
+pertama saya membuat div untuk logo, pencarian, dan navigasi
+ini adalah logo lalu ini pencarian dan ini navigasi.
+setelah itu saya mengatur letaknya di css
+agar file css dapat di ambil oleh html saya membuat link css di atas title dan memasang link css/beranda.css
+
+di css saya membuat keseluruhan dari website saya nanti lebih tertekan dengan meambahkan * untuk keseluruhan dengan margin yang nol
+padding juga nol dan box-sizing agar mengubah kalkulasi dalam mengukur lebar elemen.
+
+lalu saya mangatur keseluruhan navigasi di css, karena saya sebelumnya sudah membuat file css nya jadi saya akan membuka 
+dangan nama navbar.css dan navbar-responsive.css.
+
+ini adalah atribut css yang sudah saya buat,
+dan saya telah mengatur atribut agar websitenya lebih rapi dan responsive.
+
+lalu saya membuat isi dari jasa dengan menambahkan gambar dan link menuju profil dari jasa.
+
+setelah saya buat lebih dari seminggu dan inilah hasilnya.
